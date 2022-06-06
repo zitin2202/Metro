@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Games\\Метро25\\Метро25\\Метро2\\Метро2\\Метро2.csproj": {}
+    "C:\\Games\\Документация_КП\\Метро2\\Метро2\\Метро2.csproj": {}
   },
   "projects": {
-    "C:\\Games\\Метро25\\Метро25\\Метро2\\Метро2\\Метро2.csproj": {
+    "C:\\Games\\Документация_КП\\Метро2\\Метро2\\Метро2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Games\\Метро25\\Метро25\\Метро2\\Метро2\\Метро2.csproj",
+        "projectUniqueName": "C:\\Games\\Документация_КП\\Метро2\\Метро2\\Метро2.csproj",
         "projectName": "Метро2",
-        "projectPath": "C:\\Games\\Метро25\\Метро25\\Метро2\\Метро2\\Метро2.csproj",
+        "projectPath": "C:\\Games\\Документация_КП\\Метро2\\Метро2\\Метро2.csproj",
         "packagesPath": "C:\\Users\\zit22\\.nuget\\packages\\",
-        "outputPath": "C:\\Games\\Метро25\\Метро25\\Метро2\\Метро2\\obj\\",
+        "outputPath": "C:\\Games\\Документация_КП\\Метро2\\Метро2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -48,9 +48,17 @@
               "target": "Package",
               "version": "[4.0.1, )"
             },
+            "SQLite": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
             "System.Collections": {
               "target": "Package",
               "version": "[4.3.0, )"
+            },
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.115.5, )"
             }
           },
           "imports": [
@@ -71,7 +79,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }
